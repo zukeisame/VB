@@ -9,4 +9,4 @@
   - Remember to include VB.h using the right path and compile your program with VB.o
 
 - Warning:
-  - You should only use the macros and functions declared in VB.h
+  - You should only use the macros and functions declared in the MANUALS of VB.h
